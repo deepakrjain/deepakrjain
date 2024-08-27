@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=about+me)](https://git.io/typing-svg)
 <p align="left">Hi, I'm <b>Deepak</b> - a fullstack developer, aspiring learning, and BTech CSE student from Maharashtra, India. I'm interested in development, problem solving, and learning new things. I keep working on projects in my free time, always in the quest of making them better.</p>
 
-i guess it is opening the links in the github website itself, but it should go to google and type these links for them to work correctly
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=skills)](https://git.io/typing-svg)
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,react,py,tailwind,bootstrap,mysql,firebase,figma,java,c++,)](https://skillicons.dev)<br/>
 
