@@ -8,7 +8,7 @@ i guess it is opening the links in the github website itself, but it should go t
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=connect+with+me)](https://git.io/typing-svg)
 <div align="left">
-  <a href="mailto:deepakrjain7@gmail.com?subject=Connect%20with%20Deepak">
+  <a href="mailto:deepakrjain7@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/deepakrjain" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
